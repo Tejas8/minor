@@ -5,7 +5,7 @@ Created on Sat Sep 28 02:05:21 2019
 
 @author: tejas
 """
-
+//starting of the program flow
 from python_speech_features import mfcc
 from python_speech_features import logfbank
 import scipy.io.wavfile as wav
