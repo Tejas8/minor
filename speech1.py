@@ -15,3 +15,5 @@ mfcc_feat = mfcc(sig,rate)
 fbank_feat = logfbank(sig,rate)
 
 print(fbank_feat[4:10,:])
+//but something came into progress
+
