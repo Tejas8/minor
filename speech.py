@@ -99,6 +99,7 @@ z = np.arange(9).reshape(3,3)
 print("Matrix: \n",z,"\n\n")
 print("Rank of the Matrix: ",matrix_rank(z),"\n\n")
 print("Trace of the Matrix: ",np.trace(z),"\n\n")
+//not able to pull request
 print("Determinant of the Matrix: ",np.linalg.det(z),"\n\n")
 //doing just for learning git
 //it also give me free tshirt
